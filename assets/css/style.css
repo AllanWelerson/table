@@ -1,0 +1,31 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  text-align: center;
+  color: #30336b;
+}
+
+#App {
+  margin: 60px auto;
+  width: 800px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+#App .pessoa {
+  margin: 20px;
+  width: 350px;
+}
+#App .pessoa ul {
+  border: 1px solid #30336b;
+  padding: 15px 20px;
+  border-radius: 10px;
+}
+#App .pessoa ul li {
+  list-style: none;
+}
+
+/*# sourceMappingURL=style.css.map */
