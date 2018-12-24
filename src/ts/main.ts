@@ -19,8 +19,8 @@ class App{
 
     render(){    
         
-        let citie1 = new Endereco("Rua do mundial",2,TipoCidades.SAO_PAULO);
-        let citie2 = new Endereco("Rua dois",4,TipoCidades.BRASILIA);
+        let citie1 = new Endereco("avenida dos carros",2,TipoCidades.SAO_PAULO);
+        let citie2 = new Endereco("W3 Sul",4,TipoCidades.BRASILIA);
         let citie3 = new Endereco("Rua da praia",8,TipoCidades.RIO_DE_JANEIRO);
 
         let pessoa1 = new PessoaFisica("jonas",citie1,"123123123-12");
